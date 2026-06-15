@@ -1,3 +1,3 @@
 {
-    "message": "successfully fetched data from github"
+    "code": "local player = 'Bann6r'\\nprint('Hello ' .. player)\\nwarn('Dynamic code works!')"
 }
